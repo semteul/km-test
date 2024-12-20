@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/km-test/static/css/main.f855e6bc.css",
-    "main.js": "/km-test/static/js/main.be800063.js",
+    "main.css": "/km-test/static/css/main.618728da.css",
+    "main.js": "/km-test/static/js/main.104af16c.js",
     "static/js/488.936114b4.chunk.js": "/km-test/static/js/488.936114b4.chunk.js",
     "index.html": "/km-test/index.html",
-    "main.f855e6bc.css.map": "/km-test/static/css/main.f855e6bc.css.map",
-    "main.be800063.js.map": "/km-test/static/js/main.be800063.js.map",
+    "main.618728da.css.map": "/km-test/static/css/main.618728da.css.map",
+    "main.104af16c.js.map": "/km-test/static/js/main.104af16c.js.map",
     "488.936114b4.chunk.js.map": "/km-test/static/js/488.936114b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.be800063.js"
+    "static/css/main.618728da.css",
+    "static/js/main.104af16c.js"
   ]
 }
