@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/semteul/km-test/static/css/main.f855e6bc.css",
-    "main.js": "/semteul/km-test/static/js/main.8ffe35b4.js",
-    "static/js/488.936114b4.chunk.js": "/semteul/km-test/static/js/488.936114b4.chunk.js",
-    "static/media/logo.svg": "/semteul/km-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/semteul/km-test/index.html",
-    "main.f855e6bc.css.map": "/semteul/km-test/static/css/main.f855e6bc.css.map",
-    "main.8ffe35b4.js.map": "/semteul/km-test/static/js/main.8ffe35b4.js.map",
-    "488.936114b4.chunk.js.map": "/semteul/km-test/static/js/488.936114b4.chunk.js.map"
+    "main.css": "/km-test/static/css/main.f855e6bc.css",
+    "main.js": "/km-test/static/js/main.be800063.js",
+    "static/js/488.936114b4.chunk.js": "/km-test/static/js/488.936114b4.chunk.js",
+    "index.html": "/km-test/index.html",
+    "main.f855e6bc.css.map": "/km-test/static/css/main.f855e6bc.css.map",
+    "main.be800063.js.map": "/km-test/static/js/main.be800063.js.map",
+    "488.936114b4.chunk.js.map": "/km-test/static/js/488.936114b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8ffe35b4.js"
+    "static/js/main.be800063.js"
   ]
 }
