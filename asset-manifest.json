@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/km-test/static/css/main.3768cc62.css",
-    "main.js": "/km-test/static/js/main.80b5d32e.js",
+    "main.css": "/km-test/static/css/main.3b475035.css",
+    "main.js": "/km-test/static/js/main.ecb69ae6.js",
     "static/js/488.936114b4.chunk.js": "/km-test/static/js/488.936114b4.chunk.js",
     "static/media/leaflet-2.pdf": "/km-test/static/media/leaflet-2.2046f8ee42d2f02f2390.pdf",
+    "static/media/about-banner-bg.jpg": "/km-test/static/media/about-banner-bg.1c79f864ae6400ba6258.jpg",
     "static/media/above.png": "/km-test/static/media/above.f2cbd7148701dd5657ad.png",
+    "static/media/news-banner-bg.jpg": "/km-test/static/media/news-banner-bg.4c30fea21d64cdd581e4.jpg",
     "static/media/chip.png": "/km-test/static/media/chip.ab8aa2f803b66e879fca.png",
     "static/media/top.png": "/km-test/static/media/top.35357315fe5e26f14128.png",
     "static/media/cover-base.png": "/km-test/static/media/cover-base.618a3ad315d97fe3a2f6.png",
@@ -17,12 +19,12 @@
     "static/media/IMMC-1.png": "/km-test/static/media/IMMC-1.530cd6b6e552ba847814.png",
     "static/media/koolmicro2.png": "/km-test/static/media/koolmicro2.39372674089d643f6fd2.png",
     "index.html": "/km-test/index.html",
-    "main.3768cc62.css.map": "/km-test/static/css/main.3768cc62.css.map",
-    "main.80b5d32e.js.map": "/km-test/static/js/main.80b5d32e.js.map",
+    "main.3b475035.css.map": "/km-test/static/css/main.3b475035.css.map",
+    "main.ecb69ae6.js.map": "/km-test/static/js/main.ecb69ae6.js.map",
     "488.936114b4.chunk.js.map": "/km-test/static/js/488.936114b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3768cc62.css",
-    "static/js/main.80b5d32e.js"
+    "static/css/main.3b475035.css",
+    "static/js/main.ecb69ae6.js"
   ]
 }
