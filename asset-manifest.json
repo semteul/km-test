@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/km-test/static/css/main.053b221b.css",
-    "main.js": "/km-test/static/js/main.06107964.js",
+    "main.css": "/km-test/static/css/main.5d523e9c.css",
+    "main.js": "/km-test/static/js/main.14e49bfc.js",
     "static/js/488.936114b4.chunk.js": "/km-test/static/js/488.936114b4.chunk.js",
     "static/media/leaflet-2.pdf": "/km-test/static/media/leaflet-2.2046f8ee42d2f02f2390.pdf",
     "static/media/above.png": "/km-test/static/media/above.f2cbd7148701dd5657ad.png",
@@ -16,12 +16,12 @@
     "static/media/above-text.png": "/km-test/static/media/above-text.18dd885e144ed40eb779.png",
     "static/media/IMMC-1.png": "/km-test/static/media/IMMC-1.530cd6b6e552ba847814.png",
     "index.html": "/km-test/index.html",
-    "main.053b221b.css.map": "/km-test/static/css/main.053b221b.css.map",
-    "main.06107964.js.map": "/km-test/static/js/main.06107964.js.map",
+    "main.5d523e9c.css.map": "/km-test/static/css/main.5d523e9c.css.map",
+    "main.14e49bfc.js.map": "/km-test/static/js/main.14e49bfc.js.map",
     "488.936114b4.chunk.js.map": "/km-test/static/js/488.936114b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.053b221b.css",
-    "static/js/main.06107964.js"
+    "static/css/main.5d523e9c.css",
+    "static/js/main.14e49bfc.js"
   ]
 }
