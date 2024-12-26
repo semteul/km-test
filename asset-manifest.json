@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/km-test/static/css/main.b9a19b44.css",
-    "main.js": "/km-test/static/js/main.edba0704.js",
+    "main.css": "/km-test/static/css/main.97c7d90e.css",
+    "main.js": "/km-test/static/js/main.00e70911.js",
     "static/js/488.936114b4.chunk.js": "/km-test/static/js/488.936114b4.chunk.js",
-    "static/media/leaflet-2.pdf": "/km-test/static/media/leaflet-2.2046f8ee42d2f02f2390.pdf",
     "static/media/datacenter.jpg": "/km-test/static/media/datacenter.49fd76f98d96dacb7342.jpg",
     "static/media/cpu.jpg": "/km-test/static/media/cpu.3dc19705cf74ce4567ec.jpg",
     "static/media/automotive.jpg": "/km-test/static/media/automotive.779442d3f82213fd945c.jpg",
@@ -27,12 +26,12 @@
     "static/media/IMMC-1.png": "/km-test/static/media/IMMC-1.530cd6b6e552ba847814.png",
     "static/media/koolmicro2.png": "/km-test/static/media/koolmicro2.39372674089d643f6fd2.png",
     "index.html": "/km-test/index.html",
-    "main.b9a19b44.css.map": "/km-test/static/css/main.b9a19b44.css.map",
-    "main.edba0704.js.map": "/km-test/static/js/main.edba0704.js.map",
+    "main.97c7d90e.css.map": "/km-test/static/css/main.97c7d90e.css.map",
+    "main.00e70911.js.map": "/km-test/static/js/main.00e70911.js.map",
     "488.936114b4.chunk.js.map": "/km-test/static/js/488.936114b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9a19b44.css",
-    "static/js/main.edba0704.js"
+    "static/css/main.97c7d90e.css",
+    "static/js/main.00e70911.js"
   ]
 }
