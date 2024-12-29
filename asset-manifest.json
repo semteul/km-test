@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/km-test/static/css/main.33d14f02.css",
-    "main.js": "/km-test/static/js/main.9860e10d.js",
+    "main.css": "/km-test/static/css/main.4347b459.css",
+    "main.js": "/km-test/static/js/main.c4d7b448.js",
     "static/js/488.205792a3.chunk.js": "/km-test/static/js/488.205792a3.chunk.js",
     "static/media/datacenter.jpg": "/km-test/static/media/datacenter.49fd76f98d96dacb7342.jpg",
     "static/media/cpu.jpg": "/km-test/static/media/cpu.3dc19705cf74ce4567ec.jpg",
@@ -11,18 +11,17 @@
     "static/media/gpu.jpg": "/km-test/static/media/gpu.31c9a30419edfb7dfa6a.jpg",
     "static/media/above.png": "/km-test/static/media/above.f2cbd7148701dd5657ad.png",
     "static/media/product-banner.jpg": "/km-test/static/media/product-banner.e1031b913a98f2c6ef76.jpg",
-    "static/media/news-banner-bg.jpg": "/km-test/static/media/news-banner-bg.4c30fea21d64cdd581e4.jpg",
     "static/media/chip2.png": "/km-test/static/media/chip2.2448185484a7a4246345.png",
-    "static/media/1.png": "/km-test/static/media/1.29af06bdf30ddb5b1403.png",
+    "static/media/1.png": "/km-test/static/media/1.01e4fb7bef63896f6014.png",
     "static/media/chip.png": "/km-test/static/media/chip.f6e57c12377c8ced5c9e.png",
     "static/media/top.png": "/km-test/static/media/top.35357315fe5e26f14128.png",
-    "static/media/technology-banner.jpg": "/km-test/static/media/technology-banner.51d5991176256f49c96b.jpg",
+    "static/media/news-banner.jpg": "/km-test/static/media/news-banner.51d5991176256f49c96b.jpg",
     "static/media/base.png": "/km-test/static/media/base.f86185b99cdf3094195d.png",
     "static/media/career-banner.jpg": "/km-test/static/media/career-banner.2421da521e59b2a94cf8.jpg",
     "static/media/side.png": "/km-test/static/media/side.424e6790bac3b2ae1710.png",
     "static/media/cover-base.png": "/km-test/static/media/cover-base.adafdb1faa18df5efb60.png",
     "static/media/4.jpg": "/km-test/static/media/4.878e7c7be8f3cc928242.jpg",
-    "static/media/2.jpg": "/km-test/static/media/2.d4baf0efc944e5d30c69.jpg",
+    "static/media/2.jpg": "/km-test/static/media/2.3de3db8416ab742c6674.jpg",
     "static/media/5.jpg": "/km-test/static/media/5.ff935ee56e79079bdbf0.jpg",
     "static/media/1.jpg": "/km-test/static/media/1.6c0fb723859b92ff666e.jpg",
     "static/media/3.jpg": "/km-test/static/media/3.eeac3219c52f7ffa67c1.jpg",
@@ -31,16 +30,17 @@
     "static/media/6.jpg": "/km-test/static/media/6.a6cdd65752b35b0bd047.jpg",
     "static/media/slogan.png": "/km-test/static/media/slogan.fcd667965a69cd422a80.png",
     "static/media/chip-text.png": "/km-test/static/media/chip-text.8284686070779db41321.png",
+    "static/media/map.png": "/km-test/static/media/map.38a07b297152c02db5a2.png",
     "static/media/above-text.png": "/km-test/static/media/above-text.18dd885e144ed40eb779.png",
     "static/media/IMMC-1.png": "/km-test/static/media/IMMC-1.530cd6b6e552ba847814.png",
     "static/media/koolmicro2.png": "/km-test/static/media/koolmicro2.39372674089d643f6fd2.png",
     "index.html": "/km-test/index.html",
-    "main.33d14f02.css.map": "/km-test/static/css/main.33d14f02.css.map",
-    "main.9860e10d.js.map": "/km-test/static/js/main.9860e10d.js.map",
+    "main.4347b459.css.map": "/km-test/static/css/main.4347b459.css.map",
+    "main.c4d7b448.js.map": "/km-test/static/js/main.c4d7b448.js.map",
     "488.205792a3.chunk.js.map": "/km-test/static/js/488.205792a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33d14f02.css",
-    "static/js/main.9860e10d.js"
+    "static/css/main.4347b459.css",
+    "static/js/main.c4d7b448.js"
   ]
 }
