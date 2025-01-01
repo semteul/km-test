@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/km-test/static/css/main.4ec61376.css",
-    "main.js": "/km-test/static/js/main.650b4af5.js",
+    "main.css": "/km-test/static/css/main.6eef4229.css",
+    "main.js": "/km-test/static/js/main.f7ee9975.js",
     "static/js/488.205792a3.chunk.js": "/km-test/static/js/488.205792a3.chunk.js",
     "static/media/datacenter.jpg": "/km-test/static/media/datacenter.49fd76f98d96dacb7342.jpg",
     "static/media/cpu.jpg": "/km-test/static/media/cpu.3dc19705cf74ce4567ec.jpg",
@@ -35,12 +35,12 @@
     "static/media/IMMC-1.png": "/km-test/static/media/IMMC-1.530cd6b6e552ba847814.png",
     "static/media/koolmicro2.png": "/km-test/static/media/koolmicro2.39372674089d643f6fd2.png",
     "index.html": "/km-test/index.html",
-    "main.4ec61376.css.map": "/km-test/static/css/main.4ec61376.css.map",
-    "main.650b4af5.js.map": "/km-test/static/js/main.650b4af5.js.map",
+    "main.6eef4229.css.map": "/km-test/static/css/main.6eef4229.css.map",
+    "main.f7ee9975.js.map": "/km-test/static/js/main.f7ee9975.js.map",
     "488.205792a3.chunk.js.map": "/km-test/static/js/488.205792a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ec61376.css",
-    "static/js/main.650b4af5.js"
+    "static/css/main.6eef4229.css",
+    "static/js/main.f7ee9975.js"
   ]
 }
