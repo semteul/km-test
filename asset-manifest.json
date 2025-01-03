@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/km-test/static/css/main.bc5b5722.css",
-    "main.js": "/km-test/static/js/main.24a9bc84.js",
+    "main.css": "/km-test/static/css/main.9b671801.css",
+    "main.js": "/km-test/static/js/main.6e8f98c7.js",
     "static/js/488.205792a3.chunk.js": "/km-test/static/js/488.205792a3.chunk.js",
     "static/media/datacenter.jpg": "/km-test/static/media/datacenter.49fd76f98d96dacb7342.jpg",
     "static/media/cpu.jpg": "/km-test/static/media/cpu.3dc19705cf74ce4567ec.jpg",
@@ -9,6 +9,7 @@
     "static/media/server.jpg": "/km-test/static/media/server.b3e630de8dc3ccc51df1.jpg",
     "static/media/automotive.jpg": "/km-test/static/media/automotive.fd00acbd02459c2382f7.jpg",
     "static/media/gpu.jpg": "/km-test/static/media/gpu.31c9a30419edfb7dfa6a.jpg",
+    "static/media/4.png": "/km-test/static/media/4.96294b69108eb1e9c7b5.png",
     "static/media/above.png": "/km-test/static/media/above.f2cbd7148701dd5657ad.png",
     "static/media/product-banner.jpg": "/km-test/static/media/product-banner.e1031b913a98f2c6ef76.jpg",
     "static/media/chip2.png": "/km-test/static/media/chip2.2448185484a7a4246345.png",
@@ -28,6 +29,7 @@
     "static/media/5.jpg": "/km-test/static/media/5.ff935ee56e79079bdbf0.jpg",
     "static/media/1.jpg": "/km-test/static/media/1.6c0fb723859b92ff666e.jpg",
     "static/media/3.jpg": "/km-test/static/media/3.eeac3219c52f7ffa67c1.jpg",
+    "static/media/3.png": "/km-test/static/media/3.27b65dd9baa11d3fb0f8.png",
     "static/media/test-cover.jpg": "/km-test/static/media/test-cover.6f41a74bb7dab331ce53.jpg",
     "static/media/koolmicro.png": "/km-test/static/media/koolmicro.aa5f2ad373645e2c55e4.png",
     "static/media/6.jpg": "/km-test/static/media/6.a6cdd65752b35b0bd047.jpg",
@@ -40,12 +42,12 @@
     "static/media/eco.png": "/km-test/static/media/eco.7cfafffee0658284e7f7.png",
     "static/media/co2.png": "/km-test/static/media/co2.0249f6ce4de9f313c11e.png",
     "index.html": "/km-test/index.html",
-    "main.bc5b5722.css.map": "/km-test/static/css/main.bc5b5722.css.map",
-    "main.24a9bc84.js.map": "/km-test/static/js/main.24a9bc84.js.map",
+    "main.9b671801.css.map": "/km-test/static/css/main.9b671801.css.map",
+    "main.6e8f98c7.js.map": "/km-test/static/js/main.6e8f98c7.js.map",
     "488.205792a3.chunk.js.map": "/km-test/static/js/488.205792a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc5b5722.css",
-    "static/js/main.24a9bc84.js"
+    "static/css/main.9b671801.css",
+    "static/js/main.6e8f98c7.js"
   ]
 }
